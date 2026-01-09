@@ -1,21 +1,7 @@
 <?php
 
-// abstract class TeamMember {
-//     protected $id;
-//     protected $title;
-//     protected $description;
-//     protected $projectId;
-//     protected $assigneeId;
-//     protected $reporterId;
-//     protected $priority;
-//     protected $status;
-//     protected $estimatedHours;
-//     protected $actualHours;
-//     protected $dueDate;
-//     protected $createdAt;
-//     protected $updatedAt;
-    
-// }
+namespace App\Models;
+
 
 abstract class TeamMember {
     protected $id;
